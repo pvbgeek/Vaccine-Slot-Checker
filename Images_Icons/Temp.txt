@@ -1,0 +1,1 @@
+Has png images of icons used in the project.
