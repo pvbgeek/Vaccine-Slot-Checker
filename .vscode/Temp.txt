@@ -1,1 +1,1 @@
-
+Has json settings file.
